@@ -1,0 +1,30 @@
+body {
+  margin:0;
+  background:#0f172a;
+  color:white;
+  font-family:Arial;
+}
+.container {
+  max-width:900px;
+  margin:auto;
+  padding:20px;
+}
+.search {
+  display:flex;
+  gap:10px;
+}
+input, button {
+  padding:10px;
+  border-radius:6px;
+  border:none;
+}
+button {
+  background:#3b82f6;
+  color:white;
+}
+.card {
+  background:#1e293b;
+  padding:20px;
+  margin-top:20px;
+  border-radius:10px;
+}
